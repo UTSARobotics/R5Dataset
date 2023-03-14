@@ -23,3 +23,7 @@ After generating labels (.pngs or .json files associated with each input image),
 * git commit -m "added new labels 🚀🔥💥"
 * git push
 
+## License
+
+CC0  / Unlicense ⚖️ - do what you want! build box robot things!
+
