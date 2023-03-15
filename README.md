@@ -26,4 +26,3 @@ After generating labels (.pngs or .json files associated with each input image),
 ## License
 
 CC0  / Unlicense ⚖️ - do what you want! build box robot things!
-
